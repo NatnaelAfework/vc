@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang=" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Natnael Personal Site</title>
+    <link rel="stylesheet" href="css/styles.css ">
+  <head>
+  <body>
+      <h1>Natnael Afework</h1>
+        <h3>Books and Teaching</h3>
+        <ul>
+          <li>Online Course with Ms Angela</li>
+        <ul>
+      <hr>
+      <a href="Hobbies.html">My Hobbies</a>
+      <!-- to make a new link you have to write this <a href="#"></a>.--!>
+      <br>
+      <a href="contact.html">Contact Me</a>
+      <br>
+      <a href="dreams.html">My Dreams<a/>
+  </body>
+</html>
